@@ -1,0 +1,11 @@
+{
+    "name": "Dripi",
+    "symbol": "DRIPI",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Dripi (DRIPI) is a fashion-forward crypto token, connecting the streetwear world with Web3. Created by the DripSeer brand.",
+    "website": "https://instagram.com/dripseer",
+    "explorer": "https://bscscan.com/token/0xB209d23053516A2962a7D84CD8D385fc4589aF96",
+    "status": "active",
+    "id": "0xB209d23053516A2962a7D84CD8D385fc4589aF96"
+}
